@@ -1,0 +1,32 @@
+body {
+    margin: 50px;
+}
+.searchbutton button {
+    border-radius: 50px;
+    width: 20%;
+    background-color: rgb(196, 209, 209);
+    color:darkcyan;
+    font-weight: bold;
+    outline: darkcyan;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.plusbutton button {
+    border-radius: 50%;
+    padding: 10px 13px;
+    background-color: darkcyan;
+    color: white;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+.accbutton button {
+    padding: 5px;
+    width: 22%;
+    background-color: rgb(0, 96, 205);
+    color: white;
+    border-color: black;
+    box-shadow: 3px 3px black;
+}
